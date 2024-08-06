@@ -1,8 +1,23 @@
 # Task
 ![img2](https://github.com/user-attachments/assets/48088d8b-48a5-48b2-9a06-233241cd5ac8)
 
+# Student Learning Tracking App
 
-[image](image.jpeg)
+The Student Learning Tracking App is designed to help students and educators monitor and visualize educational progress across various subjects. The app provides a comprehensive overview of students' performance in subjects such as Math, English, and Science. Key features include:
+
+     Progress Tracking: View detailed progress reports for each subject, including grades, completed assignments, and overall performance metrics.
+    Course Management: Track and manage purchased courses, with information on enrollment status and course completion.
+    Data Visualization: Utilize interactive graphs and charts to represent performance data. The app employs the Chart.js library to render these visualizations, offering clear insights into students' learning achievements and areas needing improvement.
+    Angular-Based UI: The user interface is built with Angular, ensuring a responsive and dynamic user experience.
+
+This app enables effective tracking of educational progress and course management, providing both students and educators with valuable insights to support learning and academic growth.
+
+
+![img1](https://github.com/user-attachments/assets/8ad7aafb-1b9a-472c-918b-572c32f28bf5)
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
